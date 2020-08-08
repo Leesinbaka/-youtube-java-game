@@ -1,0 +1,4 @@
+Thread(this);
+this 表示　class qq <-- 
+thread.run() <--想他成為主要thread main thread 
+thread.start() <--想他成為side thread
