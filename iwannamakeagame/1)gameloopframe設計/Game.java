@@ -139,4 +139,4 @@ public static void main(String[] args){
 }
 
 }
-//tick()我loop 是比render loop 慢的 所以running tick()中的pixel[i] 再去跑 render 中的graphics g
+//tick()的loop 是比render loop 慢的 所以running tick()中的pixel[i] 再去跑 render 中的graphics g
